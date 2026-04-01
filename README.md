@@ -1,68 +1,34 @@
-# \# DACA Portfoolio
+# DACA Portfoolio -- Sille Pragi
 
-&#x20;
+See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot.
 
-\*\*Programm:\*\* Data Analyst Career Accelerator (DACA)
+## Minust
+Osalen programmis Data Analyst Career Accelerator (DACA), mille käigus 11 nädala jooksul õpin andmeid pärima ja puhastama (SQL, PostgreSQL), kuidas andmeid analüüsida (Python, Pandas) ja visualiseerida (Power BI).
+Liitusin DACA programmiga, kuna soovin teha teadliku karjääripöörde andmeanalüüsi valdkonda ning arendada praktilisi oskusi andmete põhjal väärtuslike järelduste tegemiseks.
 
-\*\*Osaleja:\*\* \[Sille Pragi]
+## Eesmärk
+Õppida andmeanalüüsi -- SQL, Python, visualiseerimine -- ja ehitada professionaalne portfoolio.
 
-\*\*Algus:\*\* \[24.03.2026]
+## Nädala kaupa
+| Nädal | Teema | Staatus |
+|-------|-------|---------|
+| 0 | Onboarding | Läbitud |
+| 1 | SQL Basics | Käimas |
+| 2 | SQL Cleaning | Tulemas |
+| 3 | SQL JOINs | Tulemas |
+| 4 | SQL Aggregation | Tulemas |
+| 5-6 | Visualiseerimine | Tulemas |
+| 7-8 | Python | Tulemas |
+| 9-10 | Portfoolio + Karjäär | Tulemas |
 
-&#x20;
 
-### \## Kirjeldus
+## Kontakt
 
-&#x20;
+**GitHub:** https://github.com/sille-pragi
 
-See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
+**Email:** sille.pragi@gmail.com
 
-&#x20;
-
-### \## Projektid
-
-&#x20;
-
-#### \### Week 0: Onboarding
-
-\- GitHub seadistamine ✅
-
-\- Supabase seadistamine ✅
-
-&#x20;
-
-#### \### Week 1: SQL Põhitõed
-
-\- (tulemas...)
-
-&#x20;
-
-#### \### Week 2: SQL Andmete Puhastamine
-
-\- (tulemas...)
-
-&#x20;
-
-### \## Oskused
-
-&#x20;
-
-\- \*\*SQL:\*\* PostgreSQL, Supabase
-
-\- \*\*Python:\*\* pandas, plotly (tulemas...)
-
-\- \*\*Visualiseerimine:\*\* Power BI / Streamlit (tulemas...)
-
-\- \*\*Tööriistad:\*\* Git, GitHub, VS Code
-
-&#x20;
-
-### \## Kontakt
-
-&#x20;
-
-\- \*\*GitHub:\*\* \[github.com/sille-pragi](https://github.com/sille-pragi)
-
-\- \*\*Email:\*\* sille.pragi@gmail.com
+**LinkedIn:** https://linkedin.com/in/sille-pragi
 
 
 
