@@ -1,10 +1,10 @@
 # Nädal 1: SQL Basics -- UrbanStyle'i andmete uurimine
 
 ## Mida ma tegin
-- Uurisin kliendiandmete (customers) tabelit SQL päringutega
-- Leidsin, et seal on 3150 rida ja 9 veergu. UrbanStyle'is on kokku 3150 klienti. Andmeid analüüsides märkasin üsna palju probleeme. Esmalt linnade nimetused on tabelis erinevate vormingutega ehk tekkisid kordused ja ma ei saanud päringu abil esindatud linnade arvu. Näiteks on sisestatud Tartu linn nii läbivalt väikeste- ja suurte tähtedega, kui ka suure algustähega või hoopis enne Tartut on tühikud. See tekitab probleeme nii kindla linna klientide filtreerimisega kui ka klientide loendamisel linnade alusel.
-Samuti on kliendiandmetes puudu 380 kliendi e-mail ja kokku on ka 510 dublikaatset e-maili.
-- Osalesin meeskonna andmemaastiku koostamisel
+- Uurisin kliendiandmete (customers) tabelit SQL päringutega.
+- Leidsin, et seal on 3150 rida ja 9 veergu. UrbanStyle'is on kokku 3150 klienti. Andmeid analüüsides märkasin üsna palju probleeme. Esmalt linnade nimetused on tabelis erinevate vormingutega ehk tekkisid kordused ja ma ei saanud päringu abil esindatud linnade arvu. Näiteks on sisestatud Tartu linn nii läbivalt väikeste ja suurte tähtedega, kui ka suure algustähega või hoopis enne Tartut on tühikud. See tekitab probleeme nii kindla linna klientide filtreerimisega kui ka klientide loendamisel linnade alusel.
+Samuti on kliendiandmetes puudu 380 kliendi e-mail ja kokku on 510 dublikaatset e-maili.
+- Osalesin meeskonna andmemaastiku koostamisel.
 
 ## Peamised õppetunnid
 - Andmekvaliteedil on väga suur roll analüüsis. SQL-päringutega ütlen andmebaasile, mida ma tahan näha, kuid tulemuste usaldusväärsus sõltub otseselt alusandmete puhtusest. Kui andmed on ebatäpsed, sisaldavad duplikaate või NULL-väärtusi, annavad ka tehniliselt korrektsed päringud äriliselt valesid vastuseid.
