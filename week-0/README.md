@@ -2,7 +2,9 @@
 
 ## Mida ma tegin
 - Seadistasin tööriistad Supabase'i (PostgreSQL), GitHub'i, VS Code'i, Power BI ja NotebookLM'i UrbanStyle'i andmete analüüsimiseks.
+- Tutvusin tööriistadega. 
 - Osalesin meeskonnatöö koostamisel.
+- Alustasin oma portfoolio loomise ja tööde dokumenteerimisega.
 
 ## Peamised õppetunnid
 - PostgreSQL võimaldab hallata UrbanStyle'i andmekaost palju efektiivsemalt kui Excel.
