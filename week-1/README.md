@@ -11,12 +11,12 @@ Samuti on kliendiandmetes puudu 380 kliendi e-mail ja kokku on 510 dublikaatset 
 - Oluline on süsteemne dokumenteerimine ja õige töövoog. Tegevustest peab maha jääma logi, et hiljem vajadusel saaks seda vaadata.
 
 ## Failid
-- `week_1_customers_exploration.sql` -- minu SQL päringud
-- `week_1_results_screenshot_nr_1.png` -- linnade jaotuse tulemuse pilt
-- `week_1_results_screenshot_nr_2.png` -- kindla linna klientide filtreerimise tulemuse pilt
-- `week_1_results_screenshot_nr_3.png` -- puudulike e-mailide tulemuse pilt
-- `week_1_results_screenshot_nr_4.png` -- dublikaatsete e-mailide tulemuse pilt
-- `week_1_results_screenshot_nr_5.png` -- linnade alusel klientide loenduse tulemuse pilt
+- **[week_1_customers_exploration.sql](individual/week_1_customers_exploration.sql)** – minu SQL päringud koos selgitavate kommentaaridega
+- **[week_1_results_screenshot_nr_1.png](individual/week_1_results_screenshot_nr_1.png)** – linnade jaotuse tulemuse kuvatõmmis
+- **[week_1_results_screenshot_nr_2.png](individual/week_1_results_screenshot_nr_2.png)** – kindla linna klientide filtreerimise tulemuse kuvatõmmis
+- **[week_1_results_screenshot_nr_3.png](individual/week_1_results_screenshot_nr_3.png)** – puudulike e-mailide tulemuse kuvatõmmis
+- **[week_1_results_screenshot_nr_4.png](individual/week_1_results_screenshot_nr_4.png)** – dublikaatsete e-mailide tulemuse kuvatõmmis
+- **[week_1_results_screenshot_nr_5.png](individual/week_1_results_screenshot_nr_5.png)** – linnade alusel klientide loenduse tulemuse kuvatõmmis
 
 ## Meeskonna töö
-- https://docs.google.com/document/d/1KF1IGFOY9RUol8cVMe5yTnogB1FGSfCGG2i4NwDDIE8/edit?tab=t.0
+- **[week1_data_landscape.md](team/week1_data_landscape.md)** – ülevaade UrbanStyle'i andmekaosest
