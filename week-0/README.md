@@ -12,4 +12,4 @@
 - **[setup_screenshot.png](individual/setup_screenshot.png)** – isikliku keskkonna kuvatõmmis
 
 ## Meeskonna töö
-- **[week0_team_summary.md](team/week0_team_summary.md)** – Ülevaade meeskonna rollide jaotusest, Team Charterist ja meeskonna fookusest
+- **[week0_team_summary.md](team/week0_team_summary.md)** – Ülevaade meeskonnatööst

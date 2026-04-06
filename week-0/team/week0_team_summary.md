@@ -1,4 +1,4 @@
-# Meeskonna kokkuvõte: Week 0
+# Meeskonna kokkuvõte: Week 0 - Andmebaaside seadistamine
 **Osakond:** UrbanStyle Marketing Data
 
 ## SUURIM ÜLLATUS:
