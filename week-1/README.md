@@ -4,7 +4,7 @@
 - Õppisin kasutama kuut olulist SQL-i käsku: SELECT, WHERE, ORDER BY, LIMIT, DISTINCT ja COUNT.
 Kasutades uusi SQL-oskusi, viisin läbi esimese päris analüüsi sales tabelis. Tuvastasin andmetes dublikaate ja leidsin puuduvaid andmeid (NULL).
 - Osalesin meeskonna andmemaastiku koostamisel.
-- Vormistasin oma nädala töö oma GitHubi portfoolios.
+- Vormistasin oma nädala töö GitHubi portfoolios.
 
 ## Peamised õppetunnid
 - Andmekvaliteedil on väga suur roll analüüsis. SQL-päringutega ütlen andmebaasile, mida ma tahan näha, kuid tulemuste usaldusväärsus sõltub otseselt alusandmete puhtusest. Kui andmed on ebatäpsed, sisaldavad duplikaate või NULL-väärtusi, annavad ka tehniliselt korrektsed päringud äriliselt valesid vastuseid.
