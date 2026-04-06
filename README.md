@@ -13,8 +13,8 @@ Liitusin DACA programmiga, kuna soovin teha teadliku karjääripöörde andmeana
 | Nädal | Teema | Staatus |
 |-------|-------|---------|
 | 0 | Onboarding | Läbitud |
-| 1 | SQL Basics | Käimas |
-| 2 | SQL Cleaning | Tulemas |
+| 1 | SQL Basics | Läbitud |
+| 2 | SQL Cleaning | Käimas |
 | 3 | SQL JOINs | Tulemas |
 | 4 | SQL Aggregation | Tulemas |
 | 5-6 | Visualiseerimine | Tulemas |
