@@ -6,7 +6,7 @@ Teostasin põhjaliku kontrolli tabelis `products_test` ja tuvastasin järgmise o
 
 | Kontrollpunkt | Tulemus | Seisund |
 | :--- | :---: | :--- |
-| **1. Dublikaatsed tootenimed** | **12** | 🔴 Vajab puhastamist |
+| **1. Dublikaatsed tootenimed** | **12** | 🟢 Puhastatud |
 | 2. NULL väärtused kriitilistes väljades | 0 | 🟢 Korras |
 | 3. Negatiivsed või äärmuslikud hinnad | 0 | 🟢 Korras |
 | 4. Kategooriate nimevormingu erinevused | 0 | 🟢 Korras |
