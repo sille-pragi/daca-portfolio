@@ -1,8 +1,8 @@
-# Meeskonna kokkuvõte: Week 2 - Andmete puhastamine
+# Meeskonna koondraport: Week 2 - Andmete puhastamine
 **Osakond:** UrbanStyle Marketing Data
 
 ## 1. Müügiandmete tabel
-Tuvastati **5509 probleemset rida**. Äriliselt tähendab see kolme tüüpi andmekvaliteedi probleeme, mis moonutavad UrbanStyle'i tuluanalüüsi ja vajavad kiiret sekkumist.
+Tuvastati **5509 probleemset rida**. Äriliselt tähendab see kolme tüüpi andmekvaliteedi probleeme, mis moonutavad UrbanStyle'i kogukäivet ja vajavad kiiret sekkumist.
 
 | Kategooria | Leitud probleeme | Kirjeldus |
 | :--- | :---: | :--- |
@@ -34,7 +34,7 @@ Tuvastati **562 probleemset rida**. Puuduvate emailidega kliendid on sisuliselt 
 ---
 
 ## 3. Tooteandmete tabel
-Tuvastati **12 probleemset rida**. Tooteanalüüsi suurim takistus on tootenimede dubleerimine [11].
+Tuvastati **12 probleemset rida**. Tooteanalüüsi suurim takistus on tootenimede dubleerimine.
 
 | Kategooria | Leitud probleeme | Kirjeldus |
 | :--- | :---: | :--- |
@@ -48,7 +48,7 @@ Tuvastati **12 probleemset rida**. Tooteanalüüsi suurim takistus on tootenimed
 ---
 
 ## 4. Kvaliteedikontroll
-Tuvastati **1268 probleemset rida**. Kõige kriitilisem on hindade ebakõla süsteemide vahel.
+Tuvastati **1268 probleemset rida**. Kõige kriitilisem on hindade ebakõla tabelite vahel.
 
 | Kategooria | Leitud probleeme | Kirjeldus |
 | :--- | :---: | :--- |
@@ -61,10 +61,10 @@ Tuvastati **1268 probleemset rida**. Kõige kriitilisem on hindade ebakõla süs
 
 ---
 
-## 5. Kokkuvõte ja Soovitused Toomasele
+## 5. Kokkuvõte ja soovitused
 
 ### Suurim üllatus
-*   **664 hinnaerinevust:** Müügiandmete ja tooteandmete vaheline ebakõla viitab tõsisele integratsiooniveale süsteemide vahel.
+*   **664 hinnaerinevust:** Müügiandmete ja tooteandmete vaheline ebakõla viitab tõsisele veale tabelite vahel.
 *   **Müügiandmete dublikaadid:** Need mõjutavad oluliselt UrbanStyle'i kogukäivet ja vajavad kiiret eemaldamist.
 
 ### Soovitused edasiseks tegevuseks
