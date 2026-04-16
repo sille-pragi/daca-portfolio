@@ -1,4 +1,4 @@
--- Nädal: 1          Meeskond: Andmemeeskond          Roll: B - kliendiandmete uurija
+-- Nädal: 1          Meeskond: Turundusanalüüsi osakond          Roll: Kliendiandmete uurija
 
 -- Uurin klientide koguarvu
 SELECT COUNT (*) AS klientide_arv
