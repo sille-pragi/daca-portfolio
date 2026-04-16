@@ -11,7 +11,7 @@
 ## Peamised õppetunnid
 - Sain selgeks vahe Primary Key (unikaalne tunnus tabelis) ja Foreign Key (viide teise tabeli unikaalsele tunnusele) vahel, mis on tabelite ühendamise alus
 - Mõistsin, kuidas erinevad JOIN-id filtreerivad tulemusi – INNER JOIN annab vaid kattuvuse, LEFT JOIN aga säilitab kogu vasakpoolse tabeli info.
-- Mõistsin, kui oluline on tõlkida numbrid äriliseks oluliseks infoks – näiteks "kadunud klientide" leidmine võimaldab turundusel suunata neile täpselt sihilikud kampaaniaid.
+- Mõistsin, kui oluline on tõlkida numbrid äriliseks oluliseks infoks – näiteks "kadunud klientide" leidmine võimaldab turundusel suunata neile täpselt sihilikke kampaaniaid (näiteks tervituskampaania koos sooduskupongiga).
 
 
 ## Failid
