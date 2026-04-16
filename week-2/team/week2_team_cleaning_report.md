@@ -1,5 +1,5 @@
-# Meeskonna koondraport: Week 2 - Andmete puhastamine
-**Osakond:** UrbanStyle Marketing Data
+# Meeskonna koondraport: Nädal 2 - Andmete puhastamine
+**Osakond:** UrbanStyle Turundusanalüüsi osakond
 
 ## 1. Müügiandmete tabel
 Tuvastati **5509 probleemset rida**. Äriliselt tähendab see kolme tüüpi andmekvaliteedi probleeme, mis moonutavad UrbanStyle'i kogukäivet ja vajavad kiiret sekkumist.
@@ -13,7 +13,7 @@ Tuvastati **5509 probleemset rida**. Äriliselt tähendab see kolme tüüpi andm
 | Tuleviku kuupäevad | 9 | Kuupäev > tänane (loogikavead) |
 | **KOKKU** | **5509** | **Korduvad kirjed ja loogikavead** |
 
-### Prioriteetide järjekord ja Ärimõju
+### Prioriteetide järjekord ja äriline mõju
 1.  **`customer_id` puudumine:** (KÕRGE) – Ei saa siduda klienti müügiga, mis teeb võimatuks lojaalsusprogrammide analüüsi.
 2.  **Duplikaadid:** (KESKMINE kuni KÕRGE) – Tekitavad ebausaldusväärse pildi kogukäibest, mis on investorite jaoks kriitiline viga.
 3.  **Tuleviku kuupäevad:** (MADAL) – Väike arv, lihtne parandada, ei mõjuta suurt pilti.
@@ -28,7 +28,7 @@ Tuvastati **562 probleemset rida**. Puuduvate emailidega kliendid on sisuliselt 
 | Duplikaatsed e-mailid | 128 | Sama e-mail mitmel kliendil (moonutab klientide arvu) |
 | NULL eesnimi/perenimi | 0 | Andmed korras |
 | Ebajärjekindlad linnanimed | 54 | Erinevad nimekujud (nt tallinn vs Tallinn) |
-| NULL telefon/e-mail | 380 | Puuduvad kontaktandmed (anonüümsed kliendid) |
+| NULL e-mail | 380 | Puuduvad kontaktandmed (anonüümsed kliendid) |
 | **KOKKU** | **562** | |
 
 ---
@@ -55,7 +55,7 @@ Tuvastati **1268 probleemset rida**. Kõige kriitilisem on hindade ebakõla tabe
 | Orvud (Orphan) kliendid | 0 | Kõik müügid viitavad eksisteerivale kliendile |
 | Orvud tooted | 0 | Kõik müügid viitavad eksisteerivale tootele |
 | **Hinna ebakõlad** | **664** | **Müügihind ei klapi tootehinnaga** |
-| Vaimkliendid (Ghost) | 592 | Kliendid, kes pole kunagi ostnud |
+| Vaimkliendid | 592 | Kliendid, kes pole kunagi ostnud |
 | Vaimtooted | 12 | Tooted, mida pole kunagi müüdud |
 | **KOKKU** | **1268** | |
 

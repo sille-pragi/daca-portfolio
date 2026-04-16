@@ -1,4 +1,4 @@
--- Nädal: 2          Meeskond: Turundusanalüüsi osakond          Roll: C - Tooteandmete puhastaja (Product Data Cleaner)
+-- Nädal: 2          Meeskond: Turundusanalüüsi osakond          Roll: Tooteandmete puhastaja (Product Data Cleaner)
 
 -- Ülesanne on leida duplikaadid, NULL väärtused ja ebajärjekindlused products tabelis ning dokumenteerida probleemid.
 -- Väljundiks on puhastamisraport (duplikaadid leitud, NULL-id leitud, formaadivead, soovitused) + SQL skript.
@@ -107,7 +107,7 @@ Tooteanalüüsi mõjutab tootenimede dublikaadid. Tuleb puhastada tootenimed.
 
 
 
--- VIIN SISSE PUHASTAMISE
+-- Viin sisse puhastamise testtabelis products_test
 -- Ühtlusta kategooriate nimed
 UPDATE products_test
 SET category = INITCAP(TRIM(category))
@@ -119,7 +119,7 @@ FROM products_test
 GROUP BY category ORDER BY category;
 -- päringud tõestavad veelkord, et mitte ühtegi kategooriate nimevormide erinevust ei esine. Seega kategooriate veerg on puhas.
 
--- Puhastan product_test tabelis product_name dublikaadid
+-- Puhastan products_test tabelis product_name dublikaadid
 -- Enne kustutamist kirjutan üles ridade arvu. -- 362 rida
 SELECT COUNT(*) AS enne FROM products_test;
 

@@ -1,12 +1,12 @@
-# UrbanStyle Tooteandmete Auditi ja Puhastamise Raport: Week 2
+# UrbanStyle puhastamisraport: Nädal 2
 
-## Tooteandmete Auditi Tulemused (PUHASTAMISRAPORT)
+## Tooteandmete puhastamisraport
 
-Teostasin põhjaliku kontrolli tabelis `products_test` ja tuvastasin järgmise olukorra:
+Teostasin põhjaliku kontrolli testtabelis `products_test` ja tuvastasin järgmise olukorra:
 
 | Kontrollpunkt | Tulemus | Seisund |
 | :--- | :---: | :--- |
-| **1. Dublikaatsed tootenimed** | **12** | 🟢 Puhastatud |
+| **1. Dublikaatsed tootenimed** | **12** | 🟢 **Puhastatud** |
 | 2. NULL väärtused kriitilistes väljades | 0 | 🟢 Korras |
 | 3. Negatiivsed või äärmuslikud hinnad | 0 | 🟢 Korras |
 | 4. Kategooriate nimevormingu erinevused | 0 | 🟢 Korras |
@@ -18,7 +18,7 @@ Teostasin põhjaliku kontrolli tabelis `products_test` ja tuvastasin järgmise o
 ## Teostatud puhastustegevused
 
 ### Duplikaatide eemaldamine
-Kustutasin 12 liigset rida, jättes alles vaid iga tootenime esimese esinemise (`product_id` alusel). Tulemuseks on products_test tabelis 350 rida ilma dublikaatideta. Kasutasin selleks transaktsiooniga `DELETE` päringut:
+Kustutasin 12 dublikaatset rida, jättes alles vaid iga tootenime esimese esinemise (`product_id` alusel). Tulemuseks on products_test tabelis 350 rida ilma dublikaatideta. Kasutasin selleks `DELETE` päringut:
 
 ```sql
 

@@ -1,4 +1,4 @@
-# Nädal 0: tööriistade seadistamine
+# Nädal 0: Tööriistade seadistamine
 
 ## Mida ma tegin
 - Seadistasin tööriistad Supabase'i (PostgreSQL), GitHub'i, VS Code'i, Power BI ja NotebookLM'i UrbanStyle'i andmete analüüsimiseks.
