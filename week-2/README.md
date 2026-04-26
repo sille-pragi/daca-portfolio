@@ -13,11 +13,9 @@
 - Võtsin kasutusele protsessi Test, Verify, Log, Commit, mis tagab, et ma ei muudaks kunagi algandmeid ilma neid kontrollimata ja logimata. Enne põhiandmete muutmist, tuleb kõik läbi teha test_koopias.
 - SQL päringu täitmise järjekord on järgmine: FROM -> WHERE -> GROUP BY -> HAVING -> SELECT -> ORDER BY -> LIMIT.
 
-
 ## Failid
 - **[week2_products_cleaning.sql](individual/week2_products_cleaning.sql)** – Tooteandmete puhastamise SQL päringud koos selgitavate kommentaaridega
 - **[week2_products_report.md](individual/week2_products_report.md)** – puhastamisraport
-
 
 ## Meeskonna töö
 - **[week2_team_cleaning_report.md](team/week2_team_cleaning_report.md)** – meeskonna koondraport
