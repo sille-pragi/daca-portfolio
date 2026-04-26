@@ -19,7 +19,6 @@
 *   **Andmekvaliteet:** Tuvastasin 12 toodet, millel puudub müügiajalugu. Selgus, et tegemist on **duplikaatsete kirjetega** toodete tabelis.
 *   **Laoseis:** 231 toote laoseis 1400-st ehk 16,5% on alla kriitilise piiri. Leidub negatiivset laoseisu.
 
-
 #### Müügikanalite efektiivsuse analüüs
 *   **Kanali tugevus:** Füüsilised poed toovad ~60% (1,9M €) ja e-pood ~40% (1,0M €) käibest. Poed on hetkel efektiivseim kanal.
 *   **Efektiivsus:** Keskmine müük kliendi kohta on füüsilistes poodides märgatavalt kõrgem (**835,13 €**) kui e-poes (**590,12 €**).
