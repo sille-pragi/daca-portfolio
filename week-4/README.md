@@ -15,7 +15,7 @@
 - Õppisin vahet tegema `GROUP BY` loogikal (mis koondab detailid üheks reaks) ja aknafunktsioonidel (mis lisavad koondväärtuse igale reale, säilitades detailse vaate).
 
 ## AI kasutamine
-Kasutasin NotebookLM-i kui isiklikku õppekaaslast, et mõista süvitsi SQL-i aknafunktsioonide ja CTE-de keerulist loogikat. AI aitas mul debug’ida päringuid ning kontrollida, et OVER() ja PARTITION BY funktsioonid arvutaksid linnade käibeosakaale korrektselt.
+Kasutasin NotebookLM-i kui isiklikku õppekaaslast, et mõista süvitsi SQL-i aknafunktsioonide ja CTE-de keerulist loogikat. AI aitas mul debug’ida päringuid ning kontrollida, et `OVER()` ja `PARTITION BY` funktsioonid arvutaksid linnade käibeosakaale korrektselt.
 
 ## Failid
 - **[week4_sales_aggregation.sql](individual/week4_sales_aggregation.sql)** – Müügi koondandmete SQL päringud koos selgitavate kommentaaridega
