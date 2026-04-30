@@ -6,7 +6,7 @@
 #### Müügi ja klientide ühendamine (TOP kliendid)
 *   **TOP kliendid:** Tuvastasime UrbanStyle'i kõige suureima kogumüügiga kliendid, mis tähendab, et väike hulk kliente genereerib ebaproportsionaalselt suure osa ettevõtte kogumüügist.
 *   **Regionaalne turg:** Tallinn on ülekaalukalt peamine turg (1 006 252 € ja 3601 ostu), kuhu on otstarbekas suunata täiendavaid ressursse.
-*   **Lojaalsusprogrammi anomaalia:** Kõige kasumlikum loyalty-grupp on hetkel kliendid, kellel **puudub tase** (1 071 805 €). See viitab suurele potentsiaalile kaasata väärtuslikud kliendid ametlikku lojaalsusprogrammi.
+*   **Lojaalsusprogrammi anomaalia:** Kõige kasumlikum *loyalty*-grupp on hetkel kliendid, kellel **puudub tase** (1 071 805 €). See viitab suurele potentsiaalile kaasata väärtuslikud kliendid ametlikku lojaalsusprogrammi.
 *   **Segmentatsioon:** Üle keskmise kulutajaid on 762 ehk vaid **7,53%** kõigist klientidest.
 
 #### "Kadunud klientide" tuvastamine
@@ -45,4 +45,4 @@
 
 ### 4. Puuduvad andmed ja edasised küsimused
 *   **Tagastused:** Miks on andmetes miinusmärgiga hinnad? Vajame selgust, kas tegu on tagastuste või andmevigadega.
-*   **Loyalty tier loogika:** Miks suurim müük tuleb tasemeta klientidelt? Peame mõistma, kuidas süsteem tasemeid määrab ja kas peaksime need väärtuslikud kliendid käsitsi "Gold" tasemele viima.
+*   ***Loyalty tier* loogika:** Miks suurim müük tuleb tasemeta klientidelt? Peame mõistma, kuidas süsteem tasemeid määrab ja kas peaksime need väärtuslikud kliendid käsitsi "*Gold*" tasemele viima.

@@ -19,9 +19,9 @@
 *   **Kasumi hajutatus:** TOP 3 toodet annavad vaid 8-10% brutokasumist, mis näitab, et kasumlikkus on hajutatud ja ettevõte ei sõltu vaid üksikutest bestselleritest.
 
 #### Turunduse efektiivsus (ROI)
-*   **Kanalite puhastus:** Ühtlustatud turunduskanalite nimekujud (nt "fb ads" -> "Facebook Ads"), mis parandas andmete usaldusväärsust.
-*   **Efektiivseim kanal:** **Facebook Ads** toob kõrgeima keskmise tellimuse (943.95 €).
-*   **Maht vs väärtus:** Google Organic toob mahuliselt enim kliente (1884), kuid on keskmiselt tellimuselt alles 7. kohal.
+*   **Kanalite puhastus:** Ühtlustatud turunduskanalite nimekujud (nt "*fb ads*" -> "*Facebook Ads*"), mis parandas andmete usaldusväärsust.
+*   **Efektiivseim kanal:** ***Facebook Ads*** toob kõrgeima keskmise tellimuse (943.95 €).
+*   **Maht vs väärtus:** *Google Organic* toob mahuliselt enim kliente (1884), kuid on keskmiselt tellimuselt alles 7. kohal.
 
 ---
 
