@@ -1,4 +1,4 @@
-### Pärnu üksuse andmelugu
+### Pärnu kaupluse andmelugu
 
 Pärnu kauplust on traditsiooniliselt peetud vaid sesoonseks suveäriks, kus augusti müügitipud ulatuvad 17 000 euroni (66% üle keskmise), kuid andmete analüüs paljastas oodatust märksa stabiilsema aastaringselt tugeva äriüksuse.
 
