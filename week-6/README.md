@@ -1,6 +1,5 @@
 # Nädal 6: *Investor Dashboard*: Andmelugu
 
-
 ## Mida ma tegin
 Selle nädala eesmärk oli muuta 5. nädalal koostatud tehniline *dashboard* professionaalseks andmelooks, mis on suunatud UrbanStyle'i investoritele ja juhtkonnale. Projekti raames teostasin järgmised tegevused:
 
