@@ -11,7 +11,7 @@ Minu fookus oli RFM-analüüsi tulemuste visualiseerimisel ja andmeloo jutustami
 Kasutasin tehisintellekti abi mitmete funktsioonide ja meetodite selgitamisel. Näiteks `pd.qcut()` funktsiooni süntaksi ja `rank(method='first')` meetodi selgitamiseks, et lahendada korduvate väärtustega seotud vead sageduse skoorimisel. AI aitas süvitsi mõista ka seda, miks Recency skoorimine on vastupidine — väiksem päevade arv viimasest ostust peab andma kõrgema skoori (5), et peegeldada kliendi värskust. Samuti lisasin AI abiga graafikutele selgitavad annotatsioonid.
 
 ## Failid
-- **[week7_rfm_visualization.ipynb](individual/week7_rfm_visualization.ipynb)** – grupitöö alaülesande kood
+- **[week7_rfm_visualization.ipynb](individual/week7_rfm_visualization.ipynb)** – grupitöö alaülesande roll D kood
 
 ## Meeskonna töö
 - **[week7_rfm_complete.ipynb](team/week7_rfm_complete.ipynb)** – meeskonna terviklik *notebook*
