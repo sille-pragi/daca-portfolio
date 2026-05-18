@@ -12,6 +12,9 @@ Kasutasin tehisintellekti abi mitmete funktsioonide ja meetodite selgitamisel. N
 
 ## Failid
 - **[week7_rfm_visualization.ipynb](individual/week7_rfm_visualization.ipynb)** – grupitöö alaülesande roll D kood
+- **[fig_1_screenshot.png](individual/fig_1_screenshot.png)** – kuvatõmmis alaülesande roll D diagrammist nr 1 
+- **[fig_2_screenshot.png](individual/fig_2_screenshot.png)** – kuvatõmmis alaülesande roll D diagrammist nr 2 
+- **[fig_3_screenshot.png](individual/fig_3_screenshot.png)** – kuvatõmmis alaülesande roll D diagrammist nr 3 
 
 ## Meeskonna töö
 - **[week7_rfm_complete.ipynb](team/week7_rfm_complete.ipynb)** – meeskonna terviklik *notebook*
